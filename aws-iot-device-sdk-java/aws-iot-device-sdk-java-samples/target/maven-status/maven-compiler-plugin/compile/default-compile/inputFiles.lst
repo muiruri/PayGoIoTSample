@@ -1,0 +1,10 @@
+/Users/kenny/Downloads/connect_device_package/aws-iot-device-sdk-java/aws-iot-device-sdk-java-samples/src/main/java/com/amazonaws/services/iot/client/sample/pubSub/NonBlockingPublishListener.java
+/Users/kenny/Downloads/connect_device_package/aws-iot-device-sdk-java/aws-iot-device-sdk-java-samples/src/main/java/com/amazonaws/services/iot/client/sample/sampleUtil/PrivateKeyReader.java
+/Users/kenny/Downloads/connect_device_package/aws-iot-device-sdk-java/aws-iot-device-sdk-java-samples/src/main/java/com/amazonaws/services/iot/client/sample/sampleUtil/SampleUtil.java
+/Users/kenny/Downloads/connect_device_package/aws-iot-device-sdk-java/aws-iot-device-sdk-java-samples/src/main/java/com/amazonaws/services/iot/client/sample/pubSub/PublishSubscribeSample.java
+/Users/kenny/Downloads/connect_device_package/aws-iot-device-sdk-java/aws-iot-device-sdk-java-samples/src/main/java/com/amazonaws/services/iot/client/sample/shadow/ConnectedWindow.java
+/Users/kenny/Downloads/connect_device_package/aws-iot-device-sdk-java/aws-iot-device-sdk-java-samples/src/main/java/com/amazonaws/services/iot/client/sample/shadow/ShadowSample.java
+/Users/kenny/Downloads/connect_device_package/aws-iot-device-sdk-java/aws-iot-device-sdk-java-samples/src/main/java/com/amazonaws/services/iot/client/sample/shadowEcho/ShadowEchoSample.java
+/Users/kenny/Downloads/connect_device_package/aws-iot-device-sdk-java/aws-iot-device-sdk-java-samples/src/main/java/com/amazonaws/services/iot/client/sample/pubSub/TestTopicListener.java
+/Users/kenny/Downloads/connect_device_package/aws-iot-device-sdk-java/aws-iot-device-sdk-java-samples/src/main/java/com/amazonaws/services/iot/client/sample/sampleUtil/CommandArguments.java
+/Users/kenny/Downloads/connect_device_package/aws-iot-device-sdk-java/aws-iot-device-sdk-java-samples/src/main/java/com/amazonaws/services/iot/client/sample/shadowEcho/Thing.java
